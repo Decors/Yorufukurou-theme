@@ -1,5 +1,7 @@
 # Yorufukurou-theme
 
+![サンプル](https://raw.github.com/wiki/Decors/Yorufukurou-theme/sample.png)
+
 ## インストール
 App Storeからインストールしたものを利用している場合
 
